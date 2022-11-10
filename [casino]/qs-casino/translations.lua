@@ -1,7 +1,7 @@
-Config.Language = 'en'
+Config.Language = 'fr'
 
 Config.Languages = {
-    ['en'] = {
+    ['fr'] = {
         ["CASINO_ENTER"] = "Appuyez sur [E] pour rentrer.",
         ["CASINO_EXIT"] = "Appuyez sur [E] pour sortir.",
         ["CASINO_CASHIER"] = "Appuyez sur [E] pour acheter des jetons.",
