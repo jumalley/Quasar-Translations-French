@@ -1,0 +1,45 @@
+Config.Language = 'fr'
+
+Config.Languages = {
+    ['en'] = {
+  ["INFO_TIME"] = "TIME",
+  ["INFO_BET"] = "BET",
+  ["INFO_APART"] = "SEPARATE",
+  ["INFO_HAND"] = "HAND",
+  ["INFO_EXIT"] = "Stand up",
+  ["INFO_PLACE_BET"] = "Place bet",
+  ["INFO_MAX_BET"] = "Maximum bet",
+  ["INFO_CUSTOM_BET"] = "Adjust bet",
+  ["PLAY_BLACKJACK"] = '[E] - Blackjack',
+  ["NO_CHIPS"] = "You have no sufficient chips...",
+  ["DIVIDE"] = "Divide",
+  ["DOUBLE"] = "Double",
+  ["STAY"] = "Stay",
+  ["REQUEST"] = "Request",
+  ["FINISH_BLACKJACK"] = "You have blackjack!",
+  ["FINISH_HAVE"] = "You have ",
+  ["FINISH_WITH"] = " with ",
+  ["FINISH_LOSE"] = "You have lose",
+    },
+
+    ['fr'] = {
+    ["INFO_TIME"] = "Temps",
+    ["INFO_BET"] = "Pari",
+    ["INFO_APART"] = "Différence",
+    ["INFO_HAND"] = "Main",
+    ["INFO_EXIT"] = "Quitter",
+    ["INFO_PLACE_BET"] = "Placer un pari",
+    ["INFO_MAX_BET"] = "Pari maximum",
+    ["INFO_CUSTOM_BET"] = "Ajuster le pari",
+    ["PLAY_BLACKJACK"] = '[E] - Blackjack',
+    ["NO_CHIPS"] = "Vous n'avez pas assez de jetons.",
+    ["DIVIDE"] = "Diviser",
+    ["DOUBLE"] = "Doubler",
+    ["STAY"] = "Rester",
+    ["REQUEST"] = "Demander",
+    ["FINISH_BLACKJACK"] = "Vous avez fait un blackjack!",
+    ["FINISH_HAVE"] = "Vous avez ",
+    ["FINISH_WITH"] = " avec ",
+    ["FINISH_LOSE"] = "Vous avez perdu.",
+    }
+}
