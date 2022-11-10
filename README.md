@@ -4,6 +4,8 @@
 
 Quasar ressources translated in french
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 For all ressources & DLCs.
 
 Some ressources are slightly outdated.
@@ -13,6 +15,8 @@ Most ShowDefaultNotification translations are done for okokTextUI using html tag
 Example shown below : 
 
 ```<span style='color: #dc3545;'>Le véhicule est déjà sorti</span>.```
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **-FR-**
 
