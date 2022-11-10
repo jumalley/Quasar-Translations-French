@@ -10,9 +10,8 @@ QSConfig.Languages = { --You can copy one of these translations and create your 
         ["ITEM_BROKEN"] = "The item you are trying to use is broken.",
         ["ITEM_NOT_EXIST"] = "The item you are trying to have does not exist in your config_items.lua.",
     },
-
     ['fr'] = {
         ["ITEM_BROKEN"] = "L'objet est cassé.",
-        ["ITEM_NOT_EXIST"] = "Erreur config_items.lua.",
+        ["ITEM_NOT_EXIST"] = "Erreur! Objet introuvalbe dans config_items.lua.",
     },
 }
