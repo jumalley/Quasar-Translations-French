@@ -24,7 +24,7 @@ Toutes les ressources et DLC traduites en français !
 
 Certaines ressources sont un peu obsolètes. 
 
-La plupart des notifications de base ont été traduit de manière a être compatible avec okokTextUI et pour utiliser des tags HTML.
+La plupart des notifications de base ont été traduites de manière a être compatible avec okokTextUI et pour utiliser des tags HTML.
 
 Comme ci-desssous :
 
