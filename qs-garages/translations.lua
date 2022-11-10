@@ -36,34 +36,6 @@ Config.Languages = { --You can modify your language or even create new languages
         ["JOB_OWNED_VEHICLES"] = "Job Owned Vehicles",
     },
 
-    ['es'] = {
-        ["GARAGE_HOUSE_USE"] = "[E] - Usa tu garaje",
-        ["GARAGE_HOUSE_SAVE"] = "[E] - Guardar vehículo",
-
-        ["GARAGE_OCCUPIED_PLACE"] = "No puedes recoger un vehículo mientras el paso está ocupado.",
-        ["GARAGE_YOU_PAY"] = "Pagaste por recuperar tu vehículo $",
-        ["GARAGE_NOT_OWNER"] = "El vehículo no le pertenece.",
-        ["GARAGE_NOT_EXIST"] = "Este modelo de vehículo no existe en la ciudad.",
-        ["GARAGE_NOT_INSIDE"] = "El vehículo no está en ningún garaje.",
-        ["GARAGE_NO_MONEY"] = "No tienes suficiente dinero.",
-        ["GARAGE_IN_STREET"] = "El vehículo está en la calle.",
-        ["GARAGE_WAITING_MODEL"] = "Te busco",
-        ["GARAGE_NOT_ALLOWED_JOB"] = "No puede depositar sus vehículos dentro de este garaje.",
-        ["GARAGE_NOT_ALLOWED_IMPOUND"] = "No tienes permiso para incautar vehículos.",
-        ["GARAGE_VEHICLE_NOT_ALLOWED"] = "No aceptamos este tipo de vehículos en nuestro garaje.",
-        ["GARAGE_RETURN_DEPOSIT"] = "Usted recibe el depósito de $",
-        ["GARAGE_PAY_DEPOSIT"] = "Usted pagó un depósito de $",
-        ["GARAGE_YOU_NEED_MONEY"] = "No tienes suficiente dinero, necesitas $",
-        ["GARAGE_NO_JOB_VEHICLE"] = "Este no es el vehículo que le hemos alquilado.",
-        ["GARAGE_EMPTY"] = "Garage sin vehiculos",
-
-        ["OUTSIDE"] = "Afuera",
-        ["IMPOUND"] = "Confiscado",
-        ["PARKED"] = "Estacionado",
-
-        ["JOB_OWNED_VEHICLES"] = "Job Owned Vehicles",
-	},
-
   ['fr'] = {
     ["HOUSE_GARAGE_USE"] = "Appuyez sur [E] pour sortir un véhicule.",
     ["HOUSE_GARAGE_SAVE"] = "Appuyez sur [E] pour ranger un véhicule.",
