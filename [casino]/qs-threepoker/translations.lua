@@ -1,0 +1,75 @@
+Config.Language = 'fr'
+
+Config.Languages = {
+    ['en'] = {
+        ["PLAY_POKER"] = "[E] - Poker",
+
+        ["CHAIR_OCCUPIED"] = "This seat is occupied.",
+        ["NO_REACT"] = "You did not respond for the dealer ask in time, you have folded your hand.",
+        ["NO_BET_INPUT"] = "You did not set up a bet value.",
+        ["NOT_ENOUGH_CHIPS"] = "You do not have enough chips.",
+        ["NOT_ENOUGH_CHIPS_NEXT"] = "You do not have enough chips to bet on the Pair Plus, because you would not have enough chips for the playing.",
+        ["NOT_ENOUGH_CHIPS_THIRD"] = "You can not put that amount of chips because you would not have enough for playing your hand.",
+        ["NOT_ENOUGH_CHIPS_TOPLAY"] = "You do not have enough chips to play!",
+        ["ALREADY_BETTED"] = "You already betted.",
+        ["YOU_LOSE"] = "You lose...",
+        ["DEALER_NOT_QUAL"] = "The Dealer did not qualify for the game, you got:",
+        ["CHIPS_AGAIN"] = "chips back.",
+        ["PLAYER_WON"] = "I win your hand and you receive:",
+        ["PAIR_WON"] = "You won the Pair Plus bet, you receive:",
+
+        ["INFO_BET_INPUT"] = "BET:",
+        ["INFO_PLAYER_CHIPS"] = "CHIPS:",
+        ["INFO_MIN_MAX"] = "MIN/MAX:",
+        ["INFO_TIME"] = "TIME:",
+        ["INFO_FOLD_CARDS"] = "Fold",
+        ["INFO_PLAY_CARDS"] = "Play",
+        ["INFO_LEAVE_GAME"] = "Leave game",
+        ["INFO_RAISE_BET"] = "Raise bet",
+        ["INFO_REDUCE_BET"] = "Reduce bet",
+        ["INFO_CUSTOM_BET"] = "Custom bet",
+        ["INFO_PLACE_BET"] = "Place bet",
+        ["INFO_PLACE_PAIR_BET"] = "Place Pair Plus bet",
+
+        ["CLEARING_TABLE"] = "Clearing the table, next game starting soon...",
+        ["DEALER_SHOWING_HAND"] = "The Dealer is showing his hand...",
+        ["PLAYERS_SHOWING_HAND"] = "Revealing player hands...",
+        ["DEALING_CARDS"] = "Dealing cards to players...",
+    },
+
+    ['fr'] = {
+          ["PLAY_POKER"] = "[E] - Poker",
+
+          ["CHAIR_OCCUPIED"] = "Cette chaise est déjà occupée.",
+          ["NO_REACT"] = "Vous n'avez pas joué a temps, vous vous êtes couché.",
+          ["NO_BET_INPUT"] = "Vous n'avez pas choisi de montant à parier.",
+          ["NOT_ENOUGH_CHIPS"] = "Vous n'avez pas assez de jetons.",
+          ["NOT_ENOUGH_CHIPS_NEXT"] = "Vous n'avez pas assez de jetons pour parier sur la Paire Plus, car vous n'auriez pas assez de jetons pour jouer.",
+          ["NOT_ENOUGH_CHIPS_THIRD"] = "Vous ne pouvez pas mettre autant de jetons car vous n'avez pas assez pour jouer votre main.",
+          ["NOT_ENOUGH_CHIPS_TOPLAY"] = "Vous n'avez pas assez de jetons pour jouer!",
+          ["ALREADY_BETTED"] = "Vous avez déjà parié.",
+          ["YOU_LOSE"] = "Vous avez perdu.",
+          ["DEALER_NOT_QUAL"] = "Le croupier ne s'est pas qualifié pour le jeu, vous avez:",
+          ["CHIPS_AGAIN"] = "jetons en retour.",
+          ["PLAYER_WON"] = "Vous avez gagné et vous recevez :",
+          ["PAIR_WON"] = "Vous avez gagné la Paire Plus et vous recevez: ",
+
+          ["INFO_BET_INPUT"] = "Pari:",
+          ["INFO_PLAYER_CHIPS"] = "Jetons:",
+          ["INFO_MIN_MAX"] = "MIN/MAX:",
+          ["INFO_TIME"] = "Temps:",
+          ["INFO_FOLD_CARDS"] = "Coucher",
+          ["INFO_PLAY_CARDS"] = "Jouer",
+          ["INFO_LEAVE_GAME"] = "Quitter la partie",
+          ["INFO_RAISE_BET"] = "Augmenter le pari",
+          ["INFO_REDUCE_BET"] = "Reduire le pari",
+          ["INFO_CUSTOM_BET"] = "Pari libre",
+          ["INFO_PLACE_BET"] = "Placer le pari",
+          ["INFO_PLACE_PAIR_BET"] = "Placer le pari Paire Plus",
+
+          ["CLEARING_TABLE"] = "Nettoyage de la table, la prochaine partie commence bientôt...",
+          ["DEALER_SHOWING_HAND"] = "Le croupier montre sa main...",
+          ["PLAYERS_SHOWING_HAND"] = "Le(s) joueur(s) montre(nt) leur(s) main(s)...",
+          ["DEALING_CARDS"] = "Distribution des cartes au(x) joueur(s)...",
+      }
+}
