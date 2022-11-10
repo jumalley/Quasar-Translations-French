@@ -1,7 +1,7 @@
-Config.Language = 'en'
+Config.Language = 'fr'
 
 Config.Languages = {
-    ['en'] = {
+    ['fr'] = {
         ["LUCKY_WHEEL"] = "Apppuyez sur [E] pour faire tourner<br> la roue de la fortune.",
 
         ["PRIZE_1"] = "Vous avez gagné<br> 5000 jetons.",
