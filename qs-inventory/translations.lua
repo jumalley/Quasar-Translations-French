@@ -55,9 +55,26 @@ Config.WebhookTranslates = { --Configure here all the translations of your webho
         ["give"] = " a donné un(e) ",
         ["to"] = " à ",
     },
+    ["giveweapon_admin"] = {
+        ["title"] = "Informations sur l'arme",
+        ["give"] = " give ",
+        ["to"] = " à ",
+        ["bullets"] = "balles",
+    },
+    ["giveitem_admin"] = {
+        ["title"] = "Informations sur l'objet",
+        ["give"] = " give ",
+    },
     ["distance_check"] = {
-    ["title"] = "Distance check Inventory",
-},
+        ["title"] = "Ouverture à distance Inventaire",
+    },
+    ["command_admin"] = {
+        ["title"] = "Inventaire ouvert par l'administrateur",
+        ["message"] = "A ouvert l'inventaire de ",
+        ["footer"] = 'Logs des commandes d\'administration',
+        ['image'] = 'https://cdn.discordapp.com/emojis/972938126190321684.gif?size=96&quality=lossless',
+        ['botName'] = 'Openinventorytarget'
+    },
 }
 
 Config.Languages = { --You can copy one of these translations and create your own with another language.
@@ -420,17 +437,17 @@ Config.Languages = { --You can copy one of these translations and create your ow
     ["DROP_TEXT"] = "Objets jetés",
     ["STASH_TEXT"] = "[E] - ",
     ["SHOP_TEXT"] = "[E] - ",
-
     ["STASH_LABEL"] = "Inventaire -",
     ["TRUNK_LABEL"] = "Coffre -",
     ["GLOVEBOX_LABEL"] = "Boite à gants -",
     ["PLAYER_LABEL"] = "Joueur -",
-        ["GROUND_LABEL"] = "sol -",
+        ["GROUND_LABEL"] = "sol",
         ["GROUND_ANTIDUPE"] = "sol", --IMPORTANT: This must be called as ["GROUND_LABEL"] but without hyphens or capital letters.
         ["GARBAGE_ANTIDUPE"] = "ordures", --IMPORTANT: This must be called as ["GARBAGE_LABEL"] but without hyphens or capital letters.
-        ["GARBAGE_LABEL"] = "ordures -",
+        ["GARBAGE_LABEL"] = "ordures",
         ["VENDING_LABEL"] = "Distributeur",
-
+        ["GROUND_ANTIDUPE"] = "ground", --IMPORTANT: This must be called as ["GROUND_LABEL"] but without hyphens or capital letters.
+        ["GARBAGE_ANTIDUPE"] = "garbage", --IMPORTANT: This must be called as ["GARBAGE_LABEL"] but without hyphens or capital letters.
         ["INVENTORY_PLAYER"] = "Inventaire du joueur ",
               ["INVENTORY_SECOND"] = "Sol",
               ["INVENTORY_BAG"] = "Sac:",
@@ -617,6 +634,10 @@ Config.Languages = { --You can copy one of these translations and create your ow
     ["INVENTORY_NOTIFICATION_STEAL_ALREADY_OPENED"] = "Ce joueur est déjà volé par un autre, il ne peut y avoir qu'une seule personne qui vole à la fois",
     ["INVENTORY_NOTIFICATION_NO_BULLETS"] = "Vous n'avez pas de balles pour recharger cette arme.",
     ["INVENTORY_ITEMBOX_REQUIRED"] = "Requis",
+
+    ["TRAPHOUSE_NO_SELL"] = "You can't sell this item...",
+["TRAPHOUSE_NO_ITEM"] = "Item not exist?",
+["INVENTORY_DONT_HAVE_WEAPON"] = "Vous n'avez pas d'arme.",
     },
 
 }
