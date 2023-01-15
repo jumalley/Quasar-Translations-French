@@ -9,97 +9,92 @@
 // If translations are still missing you will find them in html.
 
 // Full translation of html placeholders.
-$("#phone-app-contacts-searchArea").attr('placeholder', 'Search');
-$("#phone-app-newcontactName").attr('placeholder', 'Name');
-$("#phone-app-newcontactNumber").attr('placeholder', 'Number');
+$("#phone-app-contacts-searchArea").attr('placeholder', 'Chercher');
+$("#phone-app-newcontactName").attr('placeholder', 'Nom');
+$("#phone-app-newcontactNumber").attr('placeholder', 'Numéro');
 $("#phone-app-newcontactNote").attr('placeholder', 'Note');
-$(".phone-add-contact-name").attr('placeholder', 'Person');
-$(".phone-add-contact-number").attr('placeholder', 'Phone number');
-$(".phone-edit-contact-name").attr('placeholder', 'Person');
-$(".phone-edit-contact-number").attr('placeholder', 'Phone number');
+$(".phone-add-contact-name").attr('placeholder', 'Personne');
+$(".phone-add-contact-number").attr('placeholder', 'Numéro de téléphone');
+$(".phone-edit-contact-name").attr('placeholder', 'Personne');
+$(".phone-edit-contact-number").attr('placeholder', 'Numéro de téléphone');
 $(".myhouse-option-transfer-container-citizenid").attr('placeholder', 'CSN');
-$("#username").attr('placeholder', 'User name');
-$("#phone").attr('placeholder', 'Phone number');
-$("#password").attr('placeholder', 'Password');
+$("#username").attr('placeholder', 'Nom d\'utilisateur');
+$("#phone").attr('placeholder', 'Numéro de téléphone');
+$("#password").attr('placeholder', 'Mot de passe');
 $(".custom-profilepicture-input").attr('placeholder', 'URL (jpg/png)');
 $(".custom-background-input").attr('placeholder', 'URL (jpg/png)');
-$("#buscador").attr('placeholder', 'Search');
+$("#buscador").attr('placeholder', 'Chercher');
 $(".settings-security-password").attr('placeholder', '****');
-$("#insta-search-input").attr('placeholder', 'Search');
+$("#insta-search-input").attr('placeholder', 'Chercher');
 $(".instagram-description").attr('placeholder', 'Description');
-$("#avatar").attr('placeholder', 'Profile Image');
-$("#name").attr('placeholder', 'Name');
-$("#description").attr('placeholder', 'Biography');
-$(".username-ig").attr('placeholder', 'User name');
-$(".whatsapp-full-name").attr('placeholder', 'Full name');
-$(".whatsapp-phone-number").attr('placeholder', 'Phone number');
-$(".whatsapp-password").attr('placeholder', 'Password');
-$("#whatsapp-search-input").attr('placeholder', 'Search');
-$(".whatsapp-searching-input").attr('placeholder', 'Search');
+$("#avatar").attr('placeholder', 'Image de profil');
+$("#name").attr('placeholder', 'Nom');
+$("#description").attr('placeholder', 'Biographie');
+$(".username-ig").attr('placeholder', 'Nom d\'utilisateur');
+$(".whatsapp-full-name").attr('placeholder', 'Nom et prénom');
+$(".whatsapp-phone-number").attr('placeholder', 'Numéro de téléphone');
+$(".whatsapp-password").attr('placeholder', 'Mot de passe');
+$("#whatsapp-search-input").attr('placeholder', 'Chercher');
+$(".whatsapp-searching-input").attr('placeholder', 'Chercher');
 $("#whatsapp-openedchat-message").attr('placeholder', 'Message');
 $("#whatsapp-openedgroup-message").attr('placeholder', 'Message');
-$(".whatsapp-group-name-input").attr('placeholder', 'Group name');
-$(".whatsapp-group-image-input").attr('placeholder', 'Group Image (URL .jpg .png)');
-$(".whatsapp-group-name-input-edit").attr('placeholder', 'Group name');
-$(".whatsapp-group-image-input-edit").attr('placeholder', 'Change group image (URL .jpg .png)');
-$("#number-member").attr('placeholder', 'Add member');
-$(".whatsapp-pers-avatar-input").attr('placeholder', 'Profile Image (URL .jpg .png .gif)');
-$(".whatsapp-pers-name-input").attr('placeholder', 'Full name');
-$(".whatsapp-pers-number-input").attr('placeholder', 'Phone number');
+$(".whatsapp-group-name-input").attr('placeholder', 'Nom du groupe');
+$(".whatsapp-group-image-input").attr('placeholder', 'Image de groupe (URL .jpg .png)');
+$(".whatsapp-group-name-input-edit").attr('placeholder', 'Nom du groupe');
+$(".whatsapp-group-image-input-edit").attr('placeholder', 'Changer l\'Image du groupe (URL .jpg .png)');
+$("#number-member").attr('placeholder', 'Ajouter un membre');
+$(".whatsapp-pers-avatar-input").attr('placeholder', 'Image de profil (URL .jpg .png .gif)');
+$(".whatsapp-pers-name-input").attr('placeholder', 'Nom et prénom');
+$(".whatsapp-pers-number-input").attr('placeholder', 'Numéro de téléphone');
 $("#gifinput").attr('placeholder', 'Seach gifs');
-$("#photos-search-bar-input").attr('placeholder', 'Location, album, or date');
-$("#clock-alarm-label-option-input").attr('placeholder', 'Alarm');
-$("#youtube-app-search-page-search").attr('placeholder', 'Youtube URL video');
-$("#ttr").attr('placeholder', 'Enter title');
-$("#gnc_ttr").attr('placeholder', 'Enter title');
+$("#photos-search-bar-input").attr('placeholder', 'Lieu, album ou date');
+$("#youtube-app-search-page-search").attr('placeholder', 'URL de la YouTube');
+$("#ttr").attr('placeholder', 'Entrer le tire');
+$("#gnc_ttr").attr('placeholder', 'Entrer le tire');
 $("#messages-app-newMessageContentInput").attr('placeholder', 'Message');
-$("#messages-app-searchArea").attr('placeholder', 'Search');
+$("#messages-app-searchArea").attr('placeholder', 'Chercher');
 $("#messages-app-content-foot-message").attr('placeholder', 'Message');
-$(".twitter-username-input").attr('placeholder', 'User name');
-$(".twitter-password-input").attr('placeholder', 'Password');
-$(".twitter-number-input").attr('placeholder', 'Phone number');
+$(".twitter-username-input").attr('placeholder', 'Nom d\'utilisateur');
+$(".twitter-password-input").attr('placeholder', 'Mot de passe');
+$(".twitter-number-input").attr('placeholder', 'Numéro de téléphone');
 $("#tweet-new-message").attr('placeholder', 'Message');
-$("#tweet-new-mentions").attr('placeholder', 'Mentions: @ (separate by virgule)');
-$("#tweet-new-hashtags").attr('placeholder', 'Hashtags: # (separate by virgule)');
+$("#tweet-new-mentions").attr('placeholder', 'Mentions: @ (séparer par une virgule)');
+$("#tweet-new-hashtags").attr('placeholder', 'Hashtags: # (séparer par une virgule)');
 $("#tweet-new-url").attr('placeholder', 'Image URL');
-$("#bank-transfer-iban").attr('placeholder', 'Sender ID');
-$("#bank-transfer-amount").attr('placeholder', 'Quantity to send');
-$("#storeapp-search-input").attr('placeholder', 'Search App');
-$(".tinder-fullname-input").attr('placeholder', 'Your name');
-$(".tinder-birth-input").attr('placeholder', 'Your date of birth');
-$(".tinder-description-input").attr('placeholder', 'Im just bored');
-$(".tinder-passions-input").attr('placeholder', 'Make Friends, Netflix, Music');
-$("#tinder-send-message-input").attr('placeholder', 'Send message');
-$("#darkchat-groupname").attr('placeholder', 'Name');
+$("#bank-transfer-iban").attr('placeholder', 'Identifiant de l\'expéditeur');
+$("#bank-transfer-amount").attr('placeholder', 'Quantité à envoyer');
+$("#storeapp-search-input").attr('placeholder', 'Application de recherche');
+$(".tinder-fullname-input").attr('placeholder', 'Votre nom');
+$(".tinder-birth-input").attr('placeholder', 'Votre date de naissance');
+$(".tinder-description-input").attr('placeholder', 'Je suis juste ennuyé');
+$(".tinder-passions-input").attr('placeholder', 'Se faire des amis, Netflix, Musique');
+$("#tinder-send-message-input").attr('placeholder', 'Envoyer un message');
+$("#darkchat-groupname").attr('placeholder', 'Nom');
 $("#darkchat-groupassword").attr('placeholder', 'Mot de passe');
-$(".racing-setup-laps").attr('placeholder', 'Number of laps (0 is Sprint)');
+$(".racing-setup-laps").attr('placeholder', 'Nombre de tours (0 is Sprint)');
 $(".racing-create-trackname").attr('placeholder', 'Nom de votre piste');
 $("#text-input").attr('placeholder', 'Nom et prénom');
 $("#pword-input").attr('placeholder', 'Mot de passe');
 $("#img-pk").attr('placeholder', 'Image de profil');
 $("#job-message-input-message").attr('placeholder', 'Message');
 $("#job-message-input-url").attr('placeholder', 'URL Photo');
-$("#channel").attr('placeholder', 'ID');
+$("#channel").attr('placeholder', 'Identifiant du joueur');
 $(".button-outlined").attr('placeholder', 'Rechercher un message.');
 $(".send-chat-message").attr('placeholder', 'Appuyez sur ENTER pour envoyer.');
-$("#uberDriver-beariderFee").attr('placeholder', 'Prix ​​au km...');
+$("#uberDriver-beariderFee").attr('placeholder', 'Prix au km...');
 $(".weazel-title").attr('placeholder', 'Définir un titre');
 $(".weazel-content").attr('placeholder', 'Définir un contenu');
 $("#video-comments-input").attr('placeholder', 'Ajouter un commentaire...');
 $("#spotify-search").attr('placeholder', 'Rechercher le lien YouTube...');
 $("#mail-search").attr('placeholder', 'Rehercher...');
 $("#safari-seatch-placeholder").attr('placeholder', 'Rechercher sur le Web...');
-$("#reminder-header").attr('placeholder', 'Title');
-$("#reminder-note").attr('placeholder', 'Note');
-$("#reminder-date").attr('placeholder', 'Date');
-$("#reminder-time").attr('placeholder', 'Time');
+$("#instagram-description-input").attr('placeholder', 'Description...');
+$("#phone-radio-frequenz-input").attr('placeholder', 'Définir une fréquence...');
+$("#new-advert-input").attr('placeholder', 'Add information...');
 $(".crypto-action-page-buy-crypto-input-coins").attr('placeholder', '1.000000');
 $(".crypto-action-page-sell-crypto-input-coins").attr('placeholder', '1.000000');
 $(".crypto-action-page-transfer-crypto-input-coins").attr('placeholder', '1.000000');
-$(".crypto-action-page-transfer-crypto-input-walletid").attr('placeholder', 'JuFx-12345678');
-$("#instagram-description-input").attr('placeholder', 'Description...');
-$("#phone-radio-frequenz-input").attr('placeholder', 'Définir une fréquence...');
-
+$(".crypto-action-page-transfer-crypto-input-walletid").attr('placeholder', 'jufx-12345678');
 
 // Full translation of html texts.
 var app = new Vue({ el: '.container', data: {
@@ -135,7 +130,6 @@ var app = new Vue({ el: '.container', data: {
     GARAGES_PLATE: "Plaque",
     GARAGES_STATE: "Emplacement",
     GARAGES_BACK: "Retour",
-    GARAGES_VALET: "Appeler",
 
     INSTAGRAM_REGISTER: "S'inscrire",
     INSTAGRAM_SEARCH: "Chercher",
@@ -190,6 +184,7 @@ var app = new Vue({ el: '.container', data: {
     SETTING_WIDGETS: "Widget",
     SETTING_LOCALTIME: "Heure locale",
     SETTING_LOCKSCREEN: "Écran de vérrouillage",
+    SETTING_REALTIME: "Heure réelle",
     SETTING_GIVECONTACT: "Partager les contacts",
     SETTING_OPTIMIZATION: "Optimisation",
     SETTING_SECURITY: "Sécurité",
@@ -257,6 +252,7 @@ var app = new Vue({ el: '.container', data: {
     TINDER_MESSAGES: "Messages",
     TINDER_EDIT: "Edité",
     TINDER_PHOTO: "Photo",
+    TINDER_PROFILE_EDIT: "Editer profile",
     TINDER_DESCRIPTION: "Description",
     TINDER_MATCH_DONE: "Vous avez un match !",
 
@@ -326,6 +322,7 @@ var app = new Vue({ el: '.container', data: {
     UBERDRIVER_WATING_UBER: "Votre chauffeur arrive. Distance restante 5km",
     UBERDRIVER_CONTACT: "Rechercher un contact",
     UBERDRIVER_CANCEL: "Refuser le chauffeur",
+    UBERDRIVER_FINISHED: "Voyage terminé",
 
     UBER_SEARCH: "Rechercher des clients",
 
@@ -347,20 +344,13 @@ var app = new Vue({ el: '.container', data: {
 
     CLOCK_WORLD_TIME: "Monde",
     CLOCK_EDIT: "Éditer",
-    CLOCK_ALARM: "Alarme",
     CLOCK_ADD: "Ajouter",
-    CLOCK_ADD_ALARM: "Ajouter une alarme",
-    CLOCK_REPEAT: "Répéter",
-    CLOCK_EVERY_DAY: "Tous les jours",
-    CLOCK_LABEL: "Nom",
-    CLOCK_ALARM_TAG: "Tag",
     CLOCK_STOPWATCH: "Chronomètre",
     CLOCK_CLEAN: "Nettoyer",
     CLOCK_START: "Lancer",
     CLOCK_TIMER: "Minuteur",
     CLOCK_STOP: "Arreter",
     CLOCK_MENU_WORLD: "Horaire international",
-    CLOCK_MENU_ALARM: "Alarme",
     CLOCK_MENU_STOPWATCH: "Stopwatch",
     CLOCK_MENU_TIMER: "Temps",
 
@@ -376,12 +366,6 @@ var app = new Vue({ el: '.container', data: {
     SAFARI_CONTENT_FAVORITES: "Favoris",
     SAFARI_CONTENT_PRIVACY: "Rapport de confidentialité",
     SAFARI_CONTENT_PRIVACY_INFORMATION: "Ces derniers jours, Safari a empêché 53 trackers d'obtenir des informations vous concernant et a caché votre adresse IP aux trackers connus.",
-
-    REMINDERS_NEW_REMINDER: "New Reminder",
-    REMINDERS_REMINDER: "Reminder",
-
-    REMINDERS_NEW_REMINDER: "Nouveau Rappel",
-    REMINDERS_REMINDER: "Rappel",
 
     PHONE_CONTACTS_TITLE: "Contacts",
     PHONE_CONTACT_EDIT: "Editer",
@@ -406,12 +390,6 @@ var app = new Vue({ el: '.container', data: {
     HIDDEN_CALL: "Numéro privé",
     COMING_CALL: "Appel entrant",
     SEARCH_CALL: "Rechercher...",
-
-    HOUSES_TITLE: "Mes maisons",
-    HOUSES_KEYS_TITLE: "Mes clés",
-    HOUSES_TRANSFER: "Transférer",
-    HOUSES_KEYS: "Clés",
-    HOUSES_TRANSFER_HOUSE: "Transférer maison",
 
     WHATSAPP_TITLE: "Chats",
     WHATSAPP_AFTER_REGISTER: "Après avoir cliqué sur enregistrement.",
@@ -484,6 +462,10 @@ var app = new Vue({ el: '.container', data: {
     RACING_INFORMATION: "Information",
     RACING_NAME: "Nom de la course",
     RACING_LAST_TRACK: "Dernière piste",
+    RACING_COLLISIONS_LABEL: "Activer/désactiver les collisions",
+    RACING_ENABLE_COLLISIONS: "Collisions activées",
+    RACING_DISABLE_COLLISIONS: "Collisions désactivées",
+
 
     POLICE_TITLE: "MDT",
     POLICE_PERSON: "Personnes",
@@ -495,6 +477,17 @@ var app = new Vue({ el: '.container', data: {
     POLICE_CLEAN: "NETTOYER",
 
     YOUTUBE_TITLE: "YouTube",
+
+    RADIO_JOIN: "Rejoindre",
+    RADIO_LEAVE: "Quitter",
+
+    SELLIX_OFFER: "TAKE OFFER",
+    SELLIX_BACK: "BACK",
+    SELLIX_BUYER: "Buyer Name",
+    SELLIX_ESTIMATED: "Estimated Delivery",
+    SELLIX_ITEM: "Item Name",
+    SELLIX_QUANTITY: "Quantity",
+    SELLIX_PRICE: "Price",
 
     CRYPTO_HEADER_WALLET: "Portefeuille",
     CRYPTO_HEADER_VALUE: "Valeur",
@@ -512,9 +505,5 @@ var app = new Vue({ el: '.container', data: {
     CRYPTO_FOOTER_GENERAL: "Général",
     CRYPTO_FOOTER_TRANSACTIONS: "Transactions",
     CRYPTO_FOOTER_VALUE: "Valeur",
-
-    RADIO_JOIN: "ENTRER",
-    RADIO_LEAVE: "PARS",
     },
-
 })
