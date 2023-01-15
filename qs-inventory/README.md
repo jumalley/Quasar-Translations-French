@@ -1,6 +1,6 @@
 qs-inventory
 
-version '1.5.9'
+version '1.7.1'
 
 Vending machines using okokTextUI
 
